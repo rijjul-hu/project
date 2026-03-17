@@ -156,6 +156,7 @@ Use these templates to capture findings and convert them into actions:
 
 ---
 
+<img width="1920" height="767" alt="Screenshot 2026-03-17 171557" src="https://github.com/user-attachments/assets/ea27951b-94e0-4a7a-8f3a-8c753f4d2379" />
 
 
 ---
