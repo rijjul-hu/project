@@ -175,7 +175,9 @@ Export visuals or summary pages to PDF or PowerPoint for reporting.
 > **Insight:** Revenue peaked in Dec 2023, dipped in mid-2024.  
 > **Action:** Investigate campaign timing and product launches.
 
----
+# Dashboard
+<img width="1284" height="723" alt="Screenshot 2026-03-20 204737" src="https://github.com/user-attachments/assets/7c603bf7-6e28-42c0-bc39-4b1888726f13" />
+
 
 ## 📄 License
 
